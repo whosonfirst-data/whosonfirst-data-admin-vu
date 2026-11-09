@@ -40,7 +40,7 @@
         "gn:id":8554035
     },
     "wof:country":"VU",
-    "wof:geomhash":"35e75a8f98b6f1d9ad09c9342f98ba63",
+    "wof:geomhash":"0392adc4469a8912e88782391d89dd13",
     "wof:hierarchy":[
         {
             "continent_id":102191583,
@@ -65,5 +65,5 @@
     166.98743000000005,
     -15.57089
 ],
-  "geometry": {"coordinates":[166.98743000000005,-15.57089],"type":"Point"}
+  "geometry": {"coordinates":[166.98743,-15.57089],"type":"Point"}
 }
