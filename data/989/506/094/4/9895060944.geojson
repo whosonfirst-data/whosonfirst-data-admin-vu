@@ -1,0 +1,72 @@
+{
+  "id": 9895060944,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.17227,-15.67547,168.17227,-15.67547",
+    "geom:latitude":-15.67547,
+    "geom:longitude":168.17227,
+    "iso:country":"VU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12547528: name \"Wutsunmel\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12547528"
+        },
+        {
+            "citation":"GeoNames populated place 12547528: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12547528"
+        },
+        {
+            "citation":"GeoNames populated place 12547528: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12547528"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680887 (Penama), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263,
+        85680887,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12547528
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"dd7a827677884dbcb6246c1b636add04",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":9895060944,
+            "region_id":85680887
+        }
+    ],
+    "wof:id":9895060944,
+    "wof:lastmodified":1795735037,
+    "wof:name":"Wutsunmel",
+    "wof:parent_id":85680887,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.17227,
+    -15.67547,
+    168.17227,
+    -15.67547
+],
+  "geometry": {"coordinates":[168.17227,-15.67547],"type":"Point"}
+}

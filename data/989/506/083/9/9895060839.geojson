@@ -1,0 +1,72 @@
+{
+  "id": 9895060839,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.22728,-19.43557,169.22728,-19.43557",
+    "geom:latitude":-19.43557,
+    "geom:longitude":169.22728,
+    "iso:country":"VU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12201357: name \"Leniakapom\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12201357"
+        },
+        {
+            "citation":"GeoNames populated place 12201357: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12201357"
+        },
+        {
+            "citation":"GeoNames populated place 12201357: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12201357"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680881 (Tafea), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263,
+        85680881,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12201357
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"dcf73c845e76ef06576ba240ed5fa448",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":9895060839,
+            "region_id":85680881
+        }
+    ],
+    "wof:id":9895060839,
+    "wof:lastmodified":1795735037,
+    "wof:name":"Leniakapom",
+    "wof:parent_id":85680881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.22728,
+    -19.43557,
+    169.22728,
+    -19.43557
+],
+  "geometry": {"coordinates":[169.22728,-19.43557],"type":"Point"}
+}

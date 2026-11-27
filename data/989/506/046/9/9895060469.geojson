@@ -1,0 +1,72 @@
+{
+  "id": 9895060469,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.52776,-13.77515,167.52776,-13.77515",
+    "geom:latitude":-13.77515,
+    "geom:longitude":167.52776,
+    "iso:country":"VU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12000471: name \"Qokemel\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12000471"
+        },
+        {
+            "citation":"GeoNames populated place 12000471: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12000471"
+        },
+        {
+            "citation":"GeoNames populated place 12000471: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12000471"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680871 (Torba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263,
+        85680871,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12000471
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"406ec14ba1550cd3081d8b9b5d176876",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":9895060469,
+            "region_id":85680871
+        }
+    ],
+    "wof:id":9895060469,
+    "wof:lastmodified":1795735037,
+    "wof:name":"Qokemel",
+    "wof:parent_id":85680871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.52776,
+    -13.77515,
+    167.52776,
+    -13.77515
+],
+  "geometry": {"coordinates":[167.52776,-13.77515],"type":"Point"}
+}

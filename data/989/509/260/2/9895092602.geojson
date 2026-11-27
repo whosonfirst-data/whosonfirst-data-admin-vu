@@ -1,0 +1,72 @@
+{
+  "id": 9895092602,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.45639,-13.96559,167.45639,-13.96559",
+    "geom:latitude":-13.96559,
+    "geom:longitude":167.45639,
+    "iso:country":"VU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12000373: name \"Tino\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12000373"
+        },
+        {
+            "citation":"GeoNames populated place 12000373: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12000373"
+        },
+        {
+            "citation":"GeoNames populated place 12000373: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12000373"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680871 (Torba), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263,
+        85680871,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12000373
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"7e9d5b88448be8ff04ba5936bd47c0c8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":9895092602,
+            "region_id":85680871
+        }
+    ],
+    "wof:id":9895092602,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Tino",
+    "wof:parent_id":85680871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.45639,
+    -13.96559,
+    167.45639,
+    -13.96559
+],
+  "geometry": {"coordinates":[167.45639,-13.96559],"type":"Point"}
+}

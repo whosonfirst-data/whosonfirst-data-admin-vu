@@ -1,0 +1,72 @@
+{
+  "id": 9895092676,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.45675,-19.50444,169.45675,-19.50444",
+    "geom:latitude":-19.50444,
+    "geom:longitude":169.45675,
+    "iso:country":"VU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12200939: name \"Maleliu\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12200939"
+        },
+        {
+            "citation":"GeoNames populated place 12200939: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12200939"
+        },
+        {
+            "citation":"GeoNames populated place 12200939: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12200939"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680881 (Tafea), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263,
+        85680881,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12200939
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"bea44165e74323f71a7f8ad0867abfe8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":9895092676,
+            "region_id":85680881
+        }
+    ],
+    "wof:id":9895092676,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Maleliu",
+    "wof:parent_id":85680881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.45675,
+    -19.50444,
+    169.45675,
+    -19.50444
+],
+  "geometry": {"coordinates":[169.45675,-19.50444],"type":"Point"}
+}

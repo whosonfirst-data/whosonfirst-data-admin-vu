@@ -1,0 +1,72 @@
+{
+  "id": 9895092597,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.63,-13.71796,167.63,-13.71796",
+    "geom:latitude":-13.71796,
+    "geom:longitude":167.63,
+    "iso:country":"VU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 11873738: name \"Rantapao\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/11873738"
+        },
+        {
+            "citation":"GeoNames populated place 11873738: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/11873738"
+        },
+        {
+            "citation":"GeoNames populated place 11873738: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/11873738"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680871 (Torba), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263,
+        85680871,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11873738
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"2e69dcdfbb08d648215f212a3da9851d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":9895092597,
+            "region_id":85680871
+        }
+    ],
+    "wof:id":9895092597,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Rantapao",
+    "wof:parent_id":85680871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.63,
+    -13.71796,
+    167.63,
+    -13.71796
+],
+  "geometry": {"coordinates":[167.63,-13.71796],"type":"Point"}
+}

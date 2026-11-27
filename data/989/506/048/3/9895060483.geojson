@@ -1,0 +1,72 @@
+{
+  "id": 9895060483,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.74724,-20.19387,169.74724,-20.19387",
+    "geom:latitude":-20.19387,
+    "geom:longitude":169.74724,
+    "iso:country":"VU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12200730: name \"Yalela\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12200730"
+        },
+        {
+            "citation":"GeoNames populated place 12200730: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12200730"
+        },
+        {
+            "citation":"GeoNames populated place 12200730: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12200730"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680881 (Tafea), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263,
+        85680881,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12200730
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"d3baab26a9cde56b045dbc12b8f1a250",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":9895060483,
+            "region_id":85680881
+        }
+    ],
+    "wof:id":9895060483,
+    "wof:lastmodified":1795735037,
+    "wof:name":"Yalela",
+    "wof:parent_id":85680881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.74724,
+    -20.19387,
+    169.74724,
+    -20.19387
+],
+  "geometry": {"coordinates":[169.74724,-20.19387],"type":"Point"}
+}

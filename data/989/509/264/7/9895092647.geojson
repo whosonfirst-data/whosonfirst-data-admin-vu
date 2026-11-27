@@ -1,0 +1,72 @@
+{
+  "id": 9895092647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.19964,-19.52708,170.19964,-19.52708",
+    "geom:latitude":-19.52708,
+    "geom:longitude":170.19964,
+    "iso:country":"VU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12200809: name \"Nakiroa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12200809"
+        },
+        {
+            "citation":"GeoNames populated place 12200809: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12200809"
+        },
+        {
+            "citation":"GeoNames populated place 12200809: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12200809"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680881 (Tafea), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263,
+        85680881,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12200809
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"0320de92242d0e12d4b43ec104ab3669",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":9895092647,
+            "region_id":85680881
+        }
+    ],
+    "wof:id":9895092647,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Nakiroa",
+    "wof:parent_id":85680881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.19964,
+    -19.52708,
+    170.19964,
+    -19.52708
+],
+  "geometry": {"coordinates":[170.19964,-19.52708],"type":"Point"}
+}

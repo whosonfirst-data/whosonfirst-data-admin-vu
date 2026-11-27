@@ -1,0 +1,72 @@
+{
+  "id": 9895060482,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.21689,-17.6383,168.21689,-17.6383",
+    "geom:latitude":-17.6383,
+    "geom:longitude":168.21689,
+    "iso:country":"VU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12164480: name \"Laklupualor\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12164480"
+        },
+        {
+            "citation":"GeoNames populated place 12164480: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12164480"
+        },
+        {
+            "citation":"GeoNames populated place 12164480: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12164480"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680893 (Shefa), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263,
+        85680893,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12164480
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"f824aa84dafc5c162b7e40429b7274a4",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":9895060482,
+            "region_id":85680893
+        }
+    ],
+    "wof:id":9895060482,
+    "wof:lastmodified":1795735037,
+    "wof:name":"Laklupualor",
+    "wof:parent_id":85680893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.21689,
+    -17.6383,
+    168.21689,
+    -17.6383
+],
+  "geometry": {"coordinates":[168.21689,-17.6383],"type":"Point"}
+}

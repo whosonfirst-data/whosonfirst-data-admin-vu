@@ -1,0 +1,72 @@
+{
+  "id": 9895092617,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.70406,-13.83759,167.70406,-13.83759",
+    "geom:latitude":-13.83759,
+    "geom:longitude":167.70406,
+    "iso:country":"VU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12004490: name \"Lotawora\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12004490"
+        },
+        {
+            "citation":"GeoNames populated place 12004490: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12004490"
+        },
+        {
+            "citation":"GeoNames populated place 12004490: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12004490"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680871 (Torba), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263,
+        85680871,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12004490
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"df08223b2f5a272a56f0796b22f35558",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":9895092617,
+            "region_id":85680871
+        }
+    ],
+    "wof:id":9895092617,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Lotawora",
+    "wof:parent_id":85680871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.70406,
+    -13.83759,
+    167.70406,
+    -13.83759
+],
+  "geometry": {"coordinates":[167.70406,-13.83759],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895060936,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.33766,-19.38491,169.33766,-19.38491",
+    "geom:latitude":-19.38491,
+    "geom:longitude":169.33766,
+    "iso:country":"VU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12201482: name \"Loupilpil\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12201482"
+        },
+        {
+            "citation":"GeoNames populated place 12201482: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12201482"
+        },
+        {
+            "citation":"GeoNames populated place 12201482: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12201482"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680881 (Tafea), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263,
+        85680881,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12201482
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"509289f9a5889d4dcdb937d964727de8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":9895060936,
+            "region_id":85680881
+        }
+    ],
+    "wof:id":9895060936,
+    "wof:lastmodified":1795735037,
+    "wof:name":"Loupilpil",
+    "wof:parent_id":85680881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.33766,
+    -19.38491,
+    169.33766,
+    -19.38491
+],
+  "geometry": {"coordinates":[169.33766,-19.38491],"type":"Point"}
+}

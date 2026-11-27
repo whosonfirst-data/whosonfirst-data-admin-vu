@@ -1,0 +1,72 @@
+{
+  "id": 9895092574,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.6458,-13.69792,167.6458,-13.69792",
+    "geom:latitude":-13.69792,
+    "geom:longitude":167.6458,
+    "iso:country":"VU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 2134572: name \"Tiltawa\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/2134572"
+        },
+        {
+            "citation":"GeoNames populated place 2134572: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/2134572"
+        },
+        {
+            "citation":"GeoNames populated place 2134572: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/2134572"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680871 (Torba), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263,
+        85680871,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":2134572
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"6e40265f6a22c723a01b8ffae9638cf5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":9895092574,
+            "region_id":85680871
+        }
+    ],
+    "wof:id":9895092574,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Tiltawa",
+    "wof:parent_id":85680871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.6458,
+    -13.69792,
+    167.6458,
+    -13.69792
+],
+  "geometry": {"coordinates":[167.6458,-13.69792],"type":"Point"}
+}

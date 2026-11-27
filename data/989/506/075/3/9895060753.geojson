@@ -1,0 +1,72 @@
+{
+  "id": 9895060753,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.26403,-19.52092,169.26403,-19.52092",
+    "geom:latitude":-19.52092,
+    "geom:longitude":169.26403,
+    "iso:country":"VU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12201238: name \"Lounapik Mita\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12201238"
+        },
+        {
+            "citation":"GeoNames populated place 12201238: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12201238"
+        },
+        {
+            "citation":"GeoNames populated place 12201238: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12201238"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680881 (Tafea), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263,
+        85680881,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12201238
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"fd0567cec56be58030331512440c38c6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":9895060753,
+            "region_id":85680881
+        }
+    ],
+    "wof:id":9895060753,
+    "wof:lastmodified":1795735037,
+    "wof:name":"Lounapik Mita",
+    "wof:parent_id":85680881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.26403,
+    -19.52092,
+    169.26403,
+    -19.52092
+],
+  "geometry": {"coordinates":[169.26403,-19.52092],"type":"Point"}
+}

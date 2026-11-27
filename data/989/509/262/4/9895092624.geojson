@@ -1,0 +1,72 @@
+{
+  "id": 9895092624,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"168.37028,-17.48194,168.37028,-17.48194",
+    "geom:latitude":-17.48194,
+    "geom:longitude":168.37028,
+    "iso:country":"VU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12164426: name \"Udapua\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12164426"
+        },
+        {
+            "citation":"GeoNames populated place 12164426: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12164426"
+        },
+        {
+            "citation":"GeoNames populated place 12164426: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12164426"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680893 (Shefa), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263,
+        85680893,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12164426
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"da1041866e648b8aa33266f2f0353faf",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":9895092624,
+            "region_id":85680893
+        }
+    ],
+    "wof:id":9895092624,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Udapua",
+    "wof:parent_id":85680893,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    168.37028,
+    -17.48194,
+    168.37028,
+    -17.48194
+],
+  "geometry": {"coordinates":[168.37028,-17.48194],"type":"Point"}
+}

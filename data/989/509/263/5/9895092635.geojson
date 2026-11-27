@@ -1,0 +1,72 @@
+{
+  "id": 9895092635,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.78238,-20.24211,169.78238,-20.24211",
+    "geom:latitude":-20.24211,
+    "geom:longitude":169.78238,
+    "iso:country":"VU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12200744: name \"Anisinecen\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12200744"
+        },
+        {
+            "citation":"GeoNames populated place 12200744: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12200744"
+        },
+        {
+            "citation":"GeoNames populated place 12200744: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12200744"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680881 (Tafea), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263,
+        85680881,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12200744
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"ffb7db15ede4b52c6d642568053ee29a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":9895092635,
+            "region_id":85680881
+        }
+    ],
+    "wof:id":9895092635,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Anisinecen",
+    "wof:parent_id":85680881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.78238,
+    -20.24211,
+    169.78238,
+    -20.24211
+],
+  "geometry": {"coordinates":[169.78238,-20.24211],"type":"Point"}
+}

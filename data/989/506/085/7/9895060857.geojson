@@ -1,0 +1,72 @@
+{
+  "id": 9895060857,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.31377,-19.4591,169.31377,-19.4591",
+    "geom:latitude":-19.4591,
+    "geom:longitude":169.31377,
+    "iso:country":"VU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12201376: name \"Lapang Nuying\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12201376"
+        },
+        {
+            "citation":"GeoNames populated place 12201376: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12201376"
+        },
+        {
+            "citation":"GeoNames populated place 12201376: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12201376"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680881 (Tafea), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263,
+        85680881,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12201376
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"d336aecb9d0232f032afcc6d0f9fe389",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":9895060857,
+            "region_id":85680881
+        }
+    ],
+    "wof:id":9895060857,
+    "wof:lastmodified":1795735037,
+    "wof:name":"Lapang Nuying",
+    "wof:parent_id":85680881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.31377,
+    -19.4591,
+    169.31377,
+    -19.4591
+],
+  "geometry": {"coordinates":[169.31377,-19.4591],"type":"Point"}
+}

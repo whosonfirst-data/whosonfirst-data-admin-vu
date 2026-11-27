@@ -1,0 +1,72 @@
+{
+  "id": 9895060489,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.79446,-20.23483,169.79446,-20.23483",
+    "geom:latitude":-20.23483,
+    "geom:longitude":169.79446,
+    "iso:country":"VU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12200751: name \"Analvingyec\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12200751"
+        },
+        {
+            "citation":"GeoNames populated place 12200751: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12200751"
+        },
+        {
+            "citation":"GeoNames populated place 12200751: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12200751"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680881 (Tafea), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263,
+        85680881,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12200751
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"e53525320aac9c19822824526f2bee88",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":9895060489,
+            "region_id":85680881
+        }
+    ],
+    "wof:id":9895060489,
+    "wof:lastmodified":1795735037,
+    "wof:name":"Analvingyec",
+    "wof:parent_id":85680881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.79446,
+    -20.23483,
+    169.79446,
+    -20.23483
+],
+  "geometry": {"coordinates":[169.79446,-20.23483],"type":"Point"}
+}

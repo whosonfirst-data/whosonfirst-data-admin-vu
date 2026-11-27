@@ -1,0 +1,72 @@
+{
+  "id": 9895092653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.45859,-19.62681,169.45859,-19.62681",
+    "geom:latitude":-19.62681,
+    "geom:longitude":169.45859,
+    "iso:country":"VU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12200857: name \"Yahpema\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12200857"
+        },
+        {
+            "citation":"GeoNames populated place 12200857: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12200857"
+        },
+        {
+            "citation":"GeoNames populated place 12200857: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12200857"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680881 (Tafea), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263,
+        85680881,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12200857
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"80ea0bbdb458deac21c278230298e51b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":9895092653,
+            "region_id":85680881
+        }
+    ],
+    "wof:id":9895092653,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Yahpema",
+    "wof:parent_id":85680881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.45859,
+    -19.62681,
+    169.45859,
+    -19.62681
+],
+  "geometry": {"coordinates":[169.45859,-19.62681],"type":"Point"}
+}

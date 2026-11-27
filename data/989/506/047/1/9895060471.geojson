@@ -1,0 +1,72 @@
+{
+  "id": 9895060471,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.53238,-13.79085,167.53238,-13.79085",
+    "geom:latitude":-13.79085,
+    "geom:longitude":167.53238,
+    "iso:country":"VU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12000479: name \"Lalngetakwewe\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12000479"
+        },
+        {
+            "citation":"GeoNames populated place 12000479: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12000479"
+        },
+        {
+            "citation":"GeoNames populated place 12000479: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12000479"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680871 (Torba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263,
+        85680871,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12000479
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"38a7d48402dc5468b156484f66540dd0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":9895060471,
+            "region_id":85680871
+        }
+    ],
+    "wof:id":9895060471,
+    "wof:lastmodified":1795735037,
+    "wof:name":"Lalngetakwewe",
+    "wof:parent_id":85680871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.53238,
+    -13.79085,
+    167.53238,
+    -13.79085
+],
+  "geometry": {"coordinates":[167.53238,-13.79085],"type":"Point"}
+}

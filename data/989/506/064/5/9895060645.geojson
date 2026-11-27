@@ -1,0 +1,72 @@
+{
+  "id": 9895060645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.34293,-19.47098,169.34293,-19.47098",
+    "geom:latitude":-19.47098,
+    "geom:longitude":169.34293,
+    "iso:country":"VU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12201116: name \"Lamanuo\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12201116"
+        },
+        {
+            "citation":"GeoNames populated place 12201116: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12201116"
+        },
+        {
+            "citation":"GeoNames populated place 12201116: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12201116"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680881 (Tafea), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263,
+        85680881,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12201116
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"860ba0893b1c86e98b99d27146f55a69",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":9895060645,
+            "region_id":85680881
+        }
+    ],
+    "wof:id":9895060645,
+    "wof:lastmodified":1795735037,
+    "wof:name":"Lamanuo",
+    "wof:parent_id":85680881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.34293,
+    -19.47098,
+    169.34293,
+    -19.47098
+],
+  "geometry": {"coordinates":[169.34293,-19.47098],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895060462,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"167.48793,-13.90824,167.48793,-13.90824",
+    "geom:latitude":-13.90824,
+    "geom:longitude":167.48793,
+    "iso:country":"VU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12000375: name \"Litow\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12000375"
+        },
+        {
+            "citation":"GeoNames populated place 12000375: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12000375"
+        },
+        {
+            "citation":"GeoNames populated place 12000375: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12000375"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680871 (Torba), whose boundary contains the GeoNames point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263,
+        85680871,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12000375
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"b1295a12dbd8af4e9968bb52ffe7c884",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":9895060462,
+            "region_id":85680871
+        }
+    ],
+    "wof:id":9895060462,
+    "wof:lastmodified":1795735037,
+    "wof:name":"Litow",
+    "wof:parent_id":85680871,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    167.48793,
+    -13.90824,
+    167.48793,
+    -13.90824
+],
+  "geometry": {"coordinates":[167.48793,-13.90824],"type":"Point"}
+}

@@ -1,0 +1,72 @@
+{
+  "id": 9895092651,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"169.45737,-19.63047,169.45737,-19.63047",
+    "geom:latitude":-19.63047,
+    "geom:longitude":169.45737,
+    "iso:country":"VU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12200854: name \"Ienmerai\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12200854"
+        },
+        {
+            "citation":"GeoNames populated place 12200854: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12200854"
+        },
+        {
+            "citation":"GeoNames populated place 12200854: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12200854"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680881 (Tafea), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263,
+        85680881,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12200854
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"719c18fb0a51c39cbdb6a0f90b0f426f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":9895092651,
+            "region_id":85680881
+        }
+    ],
+    "wof:id":9895092651,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Ienmerai",
+    "wof:parent_id":85680881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    169.45737,
+    -19.63047,
+    169.45737,
+    -19.63047
+],
+  "geometry": {"coordinates":[169.45737,-19.63047],"type":"Point"}
+}

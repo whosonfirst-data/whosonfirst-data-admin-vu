@@ -1,0 +1,72 @@
+{
+  "id": 9895092646,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"170.20494,-19.51691,170.20494,-19.51691",
+    "geom:latitude":-19.51691,
+    "geom:longitude":170.20494,
+    "iso:country":"VU",
+    "mailwoman:sources":[
+        {
+            "citation":"GeoNames populated place 12200807: name \"Itaroumara\"",
+            "property":"wof:name",
+            "url":"https://www.geonames.org/12200807"
+        },
+        {
+            "citation":"GeoNames populated place 12200807: its point",
+            "property":"geometry",
+            "url":"https://www.geonames.org/12200807"
+        },
+        {
+            "citation":"GeoNames populated place 12200807: its id",
+            "property":"wof:concordances",
+            "url":"https://www.geonames.org/12200807"
+        },
+        {
+            "citation":"The hierarchy of WOF region 85680881 (Tafea), the record that holds the GeoNames id of the division GeoNames files this place under. No boundary of the repository contains the point.",
+            "property":"wof:hierarchy"
+        }
+    ],
+    "mz:is_current":1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632263,
+        85680881,
+        102191583
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":12200807
+    },
+    "wof:country":"VU",
+    "wof:geomhash":"38c39f11e58ed9e6332ff1f5b7446a5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191583,
+            "country_id":85632263,
+            "locality_id":9895092646,
+            "region_id":85680881
+        }
+    ],
+    "wof:id":9895092646,
+    "wof:lastmodified":1795746149,
+    "wof:name":"Itaroumara",
+    "wof:parent_id":85680881,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vu",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    170.20494,
+    -19.51691,
+    170.20494,
+    -19.51691
+],
+  "geometry": {"coordinates":[170.20494,-19.51691],"type":"Point"}
+}
